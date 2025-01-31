@@ -1,8 +1,40 @@
-# React + Vite
+Interactive Quiz Application
+A modern, interactive quiz application built with React and Tailwind CSS that fetches questions from an API and provides real-time feedback and scoring.
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dynamic quiz questions loaded from API
+Real-time scoring and feedback
+Timer for each question
+Detailed result summary
+Performance statistics
+Responsive design
+Option to retry or start new quiz
+Progress tracking
 
-Currently, two official plugins are available:
+Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
+Tailwind CSS
+Vite
+Lucide React (for icons)
+
+Prerequisites
+Before you begin, ensure you have installed:
+
+Node.js (v14+ recommended)
+npm or yarn
+
+Installation
+
+Clone the repository:
+
+bashCopygit clone <repository-url>
+cd quiz-app
+
+Install dependencies:
+
+bashCopynpm install
+
+Start the development server:
+
+bashCopynpm run dev
