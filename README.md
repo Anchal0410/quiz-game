@@ -22,7 +22,7 @@ Installation
 
 Clone the repository:
 
---> git clone [<repository-url>](https://github.com/Anchal0410/quiz-game.git)
+--> git clone https://github.com/Anchal0410/quiz-game.git
 cd quiz-app
 
 Install dependencies:
