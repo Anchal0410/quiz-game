@@ -18,23 +18,18 @@ Tailwind CSS
 Vite
 Lucide React (for icons)
 
-Prerequisites
-Before you begin, ensure you have installed:
-
-Node.js (v14+ recommended)
-npm or yarn
-
 Installation
 
 Clone the repository:
 
-bashCopygit clone <repository-url>
+--> git clone [<repository-url>](https://github.com/Anchal0410/quiz-game.git)
 cd quiz-app
 
 Install dependencies:
 
-bashCopynpm install
+--> npm install
 
 Start the development server:
 
-bashCopynpm run dev
+--> npm run dev
+
